@@ -10,3 +10,4 @@ resource "aws_instance" "example" {
     Name = var.instance_name
   }
 }
+#line 3 add
